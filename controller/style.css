@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(./basename.svg);
+    background: url(basename.svg);
     height: 630px;
     width: 750px;
     margin-left: -375px;
@@ -10,7 +10,7 @@
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz);
 }
 .custom.disconnected {
-    background: url(./disconnected.svg);
+    background: url(disconnected.svg);
 }
 .custom.disconnected div {
     display: none;
